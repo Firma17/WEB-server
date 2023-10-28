@@ -4,13 +4,12 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 # resoruce
 1. ubuntu server
 2. ssh
-3. apache2
-4. php5
-5. mysql-server
-6. phpmyadmind
+3. apache
+4. php
+5. mysql
+
 
 # porgess
 1.	Install Ubuntu Server di Hardisk Eksternal.
-2.	Install SSH dan melakukan tahap Instalasi melalui Terminal.
-3.	Install Apache2.
-4.	Install PHP.
+2.	Install Apache2.
+

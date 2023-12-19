@@ -1,7 +1,8 @@
 # WEB-server
 Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data. Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox, dan sebagainya). Selanjutnya ia akan mengirimkan respon atas permintaan tersebut kepada client dalam bentuk halaman web.
 
-
+# Tujuan web
+Untuk profile pribadi.
 # resoruce
 1. ubuntu server
 2. ssh
@@ -299,8 +300,12 @@ p {
 .text-footer p{
     text-align: center;
 }
+# Tampilan Web
+![Cuplikan layar 2023-12-20 024759](https://github.com/Firma17/WEB-server/assets/148019668/74a4f2d4-dde2-4580-b6d4-2d7d88f8fd20)
 
-#Tampilan Web
+![Cuplikan layar 2023-12-20 024843](https://github.com/Firma17/WEB-server/assets/148019668/c2d2821d-91a7-46d6-a117-ae5e28efeefd)
+
+
    
 
 

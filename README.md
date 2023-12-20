@@ -3,7 +3,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 
 # Tujuan web
 Untuk profile pribadi.
-# resoruce
+# resource
 1. ubuntu server
 2. ssh
 3. apache

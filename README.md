@@ -8,28 +8,30 @@ Untuk profile pribadi.
 2. ssh
 3. apache
 4. php
-5. mysql
 
 
 # porgess
 1.	Install Ubuntu Server di Hardisk Eksternal.
 2.	Install Apache2.
+   
    $sudo apt install apache2
    $sudo systemctl start apache2
    $sudo systemctl status apache2
 
-3. Install php
+4. Install php
+   
    $sudo apt install php libapache2-mod-php php-mysql
    $sudo systemctl restart apache2
    $echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php
 
-4. Install ssh
+6. Install ssh
+   
    $sudo apt install openssh-server
    $sudo systemctl status ssh
    $sudo nano /etc/ssh/sshd_config
    $sudo systemctl restart ssh
 
-5. Hasil Codingan
+8. Hasil Codingan
    
    $index.html
    <!DOCTYPE html>
